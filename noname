@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int 3;
+if(3==0);
+printf("ZERO');
+else if(3>=0)
+printf("POSITIVE");
+else
+printf("NEGATIVE");
+getch();
+}
